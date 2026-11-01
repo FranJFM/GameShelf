@@ -53,7 +53,7 @@ fun explorarPantalla(juegos: List<Juego>, onJuegoClick: (Juego) -> Unit, modifie
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 Text(
-                    "Game Library",
+                    "GameShelf",
                     style = MaterialTheme.typography.titleLarge
                 )
                 TextButton(onClick = {}) {
